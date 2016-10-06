@@ -27,5 +27,8 @@ export default {
     	  =1 {has # comment}
     	  other {has # comments}
     	} as of {date}`,
+    login: 'Login',
+    email: 'Email',
+    password: 'Password'
   },
 };
